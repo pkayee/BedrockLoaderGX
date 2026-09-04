@@ -1,0 +1,20 @@
+{
+  "version": 6,
+  "configurePresets": [
+    {
+      "name": "Ps4",
+      "generator": "Ninja",
+      "displayName": "OpenOrbis (Linux/WSL native)",
+      "binaryDir": "${sourceDir}/build",
+      "cacheVariables": {
+        "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/cmake/oo-ps4-toolchain.cmake"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "Ps4",
+      "configurePreset": "Ps4"
+    }
+  ]
+}
