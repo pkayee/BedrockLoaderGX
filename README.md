@@ -133,6 +133,7 @@ fixes are needed after generating them:
 
 ## Credits
 
-Hooking approach follows `afr.prx` by SiSTR0 and jocover from the
-[GoldHEN plugins repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository).
-Notification code from [OSM-Made/PS4-Notify](https://github.com/OSM-Made/PS4-Notify).
+Hooking approach follows `afr.prx` by SiSTR0 and jocover from the [GoldHEN plugins repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository).
+
+Notification code from [OSM-Made/PS4-Notify](https://github.com/OSM-Made/PS4-Notify).      
+Cmake scaffolding provided by [xeghosted/OrbisForge](https://github.com/xeghosted/OrbisForge).
