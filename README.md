@@ -1,6 +1,6 @@
 # BedrockLoaderGX
 
-A GoldHEN plugin that redirects Minecraft Bedrock's resource and behaviour pack directories to a configurable location, so packs can be added without repacking the game. You can add custom resource and behavior packs in the default directory /data/BedrockLoaderGX
+A GoldHEN plugin that redirects Minecraft Bedrock's resource and behaviour pack directories to a configurable location, so packs can be added without repopulating app_tmp. You can add custom resource and behavior packs in the default directory /data/BedrockLoaderGX
 
 ## How it works
 
